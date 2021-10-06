@@ -10,7 +10,6 @@ free time i usually study web development because i want to become a specialist 
 
 <br>
 <hr>
-<br>
 <div>
 
   <a href="https://www.linkedin.com/in/hermcode/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
