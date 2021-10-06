@@ -9,7 +9,6 @@ dopamine for me. Nowadays im a software engineering student but also im an autod
 free time i usually study web development because i want to become a specialist in this area.
 
 <br>
-<br>
 <hr>
 <br>
 <div>
